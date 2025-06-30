@@ -28,7 +28,10 @@ HTML5 & CSS3
 JavaScript 
 
 view link:
+
 Deploy link:[https://task-manager-alpha-one-16.vercel.app/]
+
 Github link:[https://github.com/DEEPA-1505/task_manager.git]
+
 
 thank you for viewing.
